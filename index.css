@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,100;1,300;1,400&display=swap');
+
+.top h1{
+    width: 1000px;
+text-align: center;
+font-size: 40px;
+padding: 10px;
+border: 2px solid darkblue;
+background-color: black;
+margin: 0px auto;
+
+}
+.top h2{
+    font-size: 40px ;
+    color: dimgray;
+    text-align: center;
+    margin: 10px auto;
+    text-transform: capitalize;
+
+}
+.body{
+    font-family: 'Poppins', sans-serif;
+}
+.div{
+    color: blue;
+}
+.left{
+    color: darkcyan;
+}
+.right {
+    color: aqua;
+}
+.meddil h2 {
+    text-transform: capitalize;
+    font-size: 30px ;
+    color: indianred;
+    text-align: center;
+    margin: 20px auto;
+}
+.meddil h1{
+    font-size: 20px ;
+    text-align: justify;
+    margin: 20px auto;
+
+
+}
+.image img{
+    width: 300px;
+    border: 2px solid rebeccapurple;
+}
+.image{
+    border: 2px dotted darkblue;
+    width: 700px;
+    margin: 50px auto;
+    padding: 40px 10px;
+}
+.image p{
+    font-family: 'Poppins', sans-serif;
+    color: blue;
+    text-align: justify;
+    padding: 30px;
+    
+}
+.meddil video{
+    width: 400px;
+    border: 4px solid darkblue;
+}
